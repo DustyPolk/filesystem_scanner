@@ -1,8 +1,8 @@
 # Simple filesystem scanner in Rust. 
 
-## Scans directory structure provided by user and saves to CSV.
+Scans directory structure provided by user and saves to CSV.
 
-## Usage
+Usage
 ```rust
 Filesystem_scanner.exe <directory_to_scan> <output_csv_file>
 ```
